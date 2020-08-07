@@ -1,0 +1,12 @@
+Lenguajes de Programación imperativos:
+
+Es el lenguaje que ejecuta las instrucciones de manera secuencial, encadenan instrucciones una detras de otra que indican 
+lo que debe hacer el ordenador en cada momento para alcanzar un resultado deseado. Las variables se modifican durante la
+ejecución del programa.
+
+
+Lenguajes de Programación declarativos:  
+
+Este lenguaje está basado en operaciones matemáticas, estos no explican como se hace las cosas, si no que ellos indican que 
+proceso hay que hacer. No se declaran variables ni tipos. 
+
